@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋, I'm Nastia
+I am a frontend developer from Ukraine. I specialize in building fast and scalable web applications using React, TypeScript, and Next.js. My expertise encompasses creating user-friendly UI/UX designs, optimizing performance, fixing bugs, and seamless integration with the backend. I help deliver high-quality, maintainable code and efficient solutions that enhance the user experience.
 
-<!--
-**nastiaymlnv/nastiaymlnv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 How to reach me: **nastia.yemelianova@gmail.com**
 
-Here are some ideas to get you started:
+## 🛠️ Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- #### Core:
+![Static Badge](https://img.shields.io/badge/HTML-%23FFF?style=for-the-badge&logo=html5&logoColor=%23FFF&labelColor=%23E34F26&color=%23E34F26) ![Static Badge](https://img.shields.io/badge/CSS-%23FFF?style=for-the-badge&logo=css&labelColor=%23663399&color=%23663399) ![Static Badge](https://img.shields.io/badge/JavaScript-%23FFF?style=for-the-badge&logo=javascript&logoColor=%23FFF&labelColor=%23F7DF1E&color=%23F7DF1E) ![Static Badge](https://img.shields.io/badge/TypeScript-%23FFF?style=for-the-badge&logo=typescript&logoColor=%23FFF&labelColor=%233178C6&color=%233178C6) 
+- #### Styling:
+![Static Badge](https://img.shields.io/badge/CSS%20Modules-%23FFF?style=for-the-badge&logo=cssmodules&labelColor=%23000&color=%23000) ![Static Badge](https://img.shields.io/badge/Tailwind%20CSS-%23FFF?style=for-the-badge&logo=tailwindcss&logoColor=%23FFF&labelColor=%2306B6D4&color=%2306B6D4) ![Static Badge](https://img.shields.io/badge/SASS-%23FFF?style=for-the-badge&logo=sass&logoColor=%23FFF&labelColor=%23CC6699&color=%23CC6699) ![Static Badge](https://img.shields.io/badge/styled%20components-%23FFF?style=for-the-badge&logo=styledcomponents&logoColor=%23FFF&labelColor=%23DB7093&color=%23DB7093) ![Static Badge](https://img.shields.io/badge/Material%20UI-%23FFF?style=for-the-badge&logo=mui&logoColor=%23FFF&labelColor=%23007FFF&color=%23007FFF) ![Static Badge](https://img.shields.io/badge/Ant%20Design-%23FFF?style=for-the-badge&logo=antdesign&logoColor=%23FFF&labelColor=%230170FE&color=%230170FE) ![Static Badge](https://img.shields.io/badge/Flexbox-%23FFF?style=for-the-badge&color=%23000) ![Static Badge](https://img.shields.io/badge/CSS%20grid-%23FFF?style=for-the-badge&color=%23000)
+- #### React ecosystem:
+![Static Badge](https://img.shields.io/badge/React-%23FFFFFF?style=for-the-badge&logo=react&logoColor=%23FFF&labelColor=%2361DAFB&color=%2361DAFB) ![Static Badge](https://img.shields.io/badge/React%20Router-%23FFF?style=for-the-badge&logo=reactrouter&logoColor=%23FFF&labelColor=%23CA4245&color=%23CA4245) ![Static Badge](https://img.shields.io/badge/Next.js-%23FFF?style=for-the-badge&logo=nextdotjs&logoColor=%23FFF&labelColor=%23000000&color=%23000000) 
+- #### State management:
+![Static Badge](https://img.shields.io/badge/Redux%2FRedux%20Toolkit-%23FFF?style=for-the-badge&logo=redux&logoColor=%23FFF&labelColor=%23764ABC&color=%23764ABC) ![Static Badge](https://img.shields.io/badge/zustand-%23FFF?style=for-the-badge&logoColor=%23FFF&labelColor=%23000&color=%23000)
+- #### Forms:
+![Static Badge](https://img.shields.io/badge/Formik-%23FFF?style=for-the-badge&logo=formik&logoColor=%23FFF&labelColor=%232563EB&color=%232563EB) ![Static Badge](https://img.shields.io/badge/React%20Hook%20Form-%23FFF?style=for-the-badge&logo=reacthookform&logoColor=%23FFF&labelColor=%23EC5990&color=%23EC5990) ![Static Badge](https://img.shields.io/badge/Zod-%23FFF?style=for-the-badge&logo=zod&logoColor=%23FFF&labelColor=%23408AFF&color=%23408AFF) ![Static Badge](https://img.shields.io/badge/yup-%23FFF?style=for-the-badge&logoColor=%23FFF&labelColor=%23000&color=%23000)
+- #### Other:
+ ![Static Badge](https://img.shields.io/badge/Pug-%23FFF?style=for-the-badge&logo=pug&logoColor=%23FFF&labelColor=%23A86454&color=%23A86454) ![Static Badge](https://img.shields.io/badge/REST%20API-%23FFF?style=for-the-badge&logoColor=%23FFF&labelColor=%23000&color=%23000) ![Static Badge](https://img.shields.io/badge/AXIOS-%23FFF?style=for-the-badge&logo=axios&logoColor=%23FFF&labelColor=%235A29E4&color=%235A29E4) ![Static Badge](https://img.shields.io/badge/GIT-%23FFF?style=for-the-badge&logo=git&logoColor=%23FFF&labelColor=%23F05032&color=%23F05032) ![Static Badge](https://img.shields.io/badge/Github-%23FFF?style=for-the-badge&logo=git&logoColor=%23FFF&labelColor=%23181717&color=%23181717) ![Static Badge](https://img.shields.io/badge/ESLint-%23FFF?style=for-the-badge&logo=eslint&logoColor=%23FFF&labelColor=%234B32C3&color=%234B32C3) ![Static Badge](https://img.shields.io/badge/Prettier-%23FFF?style=for-the-badge&logo=prettier&logoColor=%23FFF&labelColor=%23F7B93E&color=%23F7B93E) ![Static Badge](https://img.shields.io/badge/Chart.js-%23FFF?style=for-the-badge&logo=chartdotjs&logoColor=%23FFF&labelColor=%23FF6384&color=%23FF6384) ![Static Badge](https://img.shields.io/badge/Figma-%23FFF?style=for-the-badge&logo=figma&logoColor=%23FFF&labelColor=%23F24E1E&color=%23F24E1E)
+
+<img src="https://raw.githubusercontent.com/nastiaymlnv/nastiaymlnv/output/snake.svg" alt="Snake animation" />
